@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url('images\\mainbackground.jpg');
+    background-position: 50% 0%;
+    background-size: auto 100vh;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+nav {
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.header-span {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 40px;
+}
+
+.top-text {
+    text-align: center;
+}
+
+.bottom-text {
+    text-align: center;
+}
